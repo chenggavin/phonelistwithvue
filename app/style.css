@@ -1,0 +1,64 @@
+* {
+	margin : 0px;
+	padding : 0px;
+}
+
+#contactListTitleUnderline {
+	size: 5px;
+}
+
+ul {
+
+	list-style-type: none;
+	display: inline-block;
+	align-self: center;
+	margin-left: 20%
+}
+
+li {
+	padding-bottom: 10px;
+}
+
+.btn-sm {
+	margin-left: 5px;
+	font-size: 8px;
+}
+
+.title {
+	margin-top: 20px;
+}
+/*______________________table stuff_______________________*/
+
+
+/*
+
+table {
+  font-family: 'Open Sans', sans-serif;
+  width: 750px;
+  border-collapse: collapse;
+  border: 3px solid #44475C;
+  margin: 10px 10px 0 10px;
+}
+
+table th {
+  text-transform: uppercase;
+  text-align: left;
+  background: #44475C;
+  color: #FFF;
+  padding: 8px;
+  min-width: 30px;
+}
+
+table td {
+  text-align: left;
+  padding: 8px;
+  border-right: 2px solid #7D82A8;
+}
+table td:last-child {
+  border-right: none;
+}
+table tbody tr:nth-child(2n) td {
+  background: #D4D8F9;
+}
+
+*/
